@@ -1,3 +1,5 @@
 # First JS Tuturial
 
-Js two numbers calculator
+Two numbers calculator
+
+You enter a first number, select an operation to perform and enter second number and that is it
